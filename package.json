@@ -1,0 +1,23 @@
+{
+  "name": "hubot-dobermanme",
+  "version": "0.0.1",
+  "description": "Hubot script to return dobermans at your command.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwandrews7/hubot-dobermanme.git"
+  },
+  "keywords": [
+    "doberman",
+    "dobermanme",
+    "hubot",
+    "hubot-dobermanme",
+    "hubot-scripts"
+  ],
+  "author": "Kyle Andrews <https://github.com/kwandrews7>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwandrews7/hubot-dobermanme/issues"
+  },
+  "homepage": "https://github.com/kwandrews7/hubot-dobermanme#readme"
+}
