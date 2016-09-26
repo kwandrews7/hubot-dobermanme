@@ -1,6 +1,6 @@
 {
   "name": "hubot-dobermanme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Hubot script to return dobermans at your command.",
   "main": "index.coffee",
   "repository": {

@@ -10,7 +10,7 @@
 # Commands:
 #   hubot doberman me - Receive a doberman
 
-dobermansJsonUrl = "http://test.andrewshotspot.com/dobermans.json"
+dobermansJsonUrl = "https://raw.githubusercontent.com/kwandrews7/hubot-dobermanme/master/src/dobermans.json"
 
 module.exports = (robot) ->
 

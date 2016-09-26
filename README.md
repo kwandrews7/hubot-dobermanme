@@ -35,3 +35,9 @@ file (you may need to create this file).
 
 * It's a doberman me hubot script. What more could you ask for?
 * It's also probably not as fancy as the other "animal me" scripts. But, we'll keep working it.
+
+### 1.0.0
+
+* It's been out awhile, why not 1.0? (Insert zoidberg meme here.)
+* Moved the dobermans.json file off of a personal server into the GitHub repo.
+* Added more dobermans.
